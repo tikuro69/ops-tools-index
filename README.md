@@ -139,3 +139,28 @@ My GitHub profile repository.
 - Log analysis
 - Small automation utilities
 - Practical CLI tools
+
+---
+
+## Recommended Workflow
+
+This toolkit is intended for small-scale Linux server operation, initial troubleshooting, and configuration review.
+
+1. **initial_triage_tool**  
+   Collect basic system information and prepare an initial investigation report.
+
+2. **log_parser_tool**  
+   Summarize Apache/Nginx access logs and identify request trends.
+
+3. **nginx_apache_config_linter**  
+   Review web server configuration files and detect common issues.
+
+4. **mail_header_probe**  
+   Inspect mail headers and check SPF/DKIM/DMARC-related information.
+
+5. **iptables-rule-viewer**  
+   Visualize iptables rules and make firewall behavior easier to understand.
+
+## Concept
+
+These tools are designed to help operators collect facts quickly, reduce manual checking, and prepare information that can be reviewed by humans or AI assistants.
