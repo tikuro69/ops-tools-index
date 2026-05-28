@@ -142,6 +142,13 @@ My GitHub profile repository.
 
 ---
 
+## Intended Use
+
+These tools are not large monitoring systems or full-featured automation platforms.
+They are small utilities designed to support day-to-day operations, initial investigation, and handover preparation.
+
+--- 
+
 ## Recommended Workflow
 
 This toolkit is intended for small-scale Linux server operation, initial troubleshooting, and configuration review.
